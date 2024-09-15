@@ -1,5 +1,8 @@
 ## 📁 WELCOME TO SWIFT SHARE DESKTOP APP! 🚀
 
+![swift share](./images/Screenshot%202024-09-15%20081332.png)
+
+
 Welcome to the File Sharing App! This open-source, desktop-compatible application, written in python, that allows you to effortlessly share files across devices connected to the same Wi-Fi network. Whether you're sharing documents, images, or videos, this app offers a seamless and secure way to manage your files in real-time. Built with modern tools and a sleek interface, it's perfect for both personal and professional use.
 
 ## 🎉 Features
