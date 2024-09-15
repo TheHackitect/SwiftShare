@@ -32,8 +32,8 @@ This application can be compiled into a standalone desktop app using PyInstaller
    pyinstaller --onefile your_script_name.py
 ```
 
-```3. Run the generated executable to start sharing files right from your desktop!
-```
+Run the generated executable to start sharing files right from your desktop!
+
 
 ### 🚀  Technologies Used
 
